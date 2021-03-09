@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+h1 {
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+body {
+    width: 967px;
+    min-height: 600px;
+    margin: 0px auto;
+}
+#container {
+	width: 967px;
+	min-height: 600px;
+	/* outline: 1px solid green; */
+}
+.title {
+	font-family: 'Roboto', sans-serif;
+	padding: 20px;
+	text-align: center;
+}
+.subtitle {
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+    font-size: 18px;
+}
+.colorInstrucciones {
+    color: darkblue;
+}
+
+#rompecabezas {
+    display: block;
+    margin: auto;
+}
+.pieza {
+    width: 400px;
+    height: 120px;
+    display: block;
+    margin: auto;
+    margin-bottom: 5px;
+}
